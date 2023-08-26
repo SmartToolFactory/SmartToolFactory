@@ -1,4 +1,4 @@
-I'm from Thrace. Currently developing Android projects with Jetpack Compose and answering Jetpack Compose questions on Stackoverflow with Thracian alias. Answered over 330 question and top 5th answerer for question with Jetpack Compose tag. I love SubcomposeLayout, custom layout, animation, and gesture question especially.
+I'm from Thrace. Currently developing Android projects with Jetpack Compose and answering Jetpack Compose questions on Stackoverflow with Thracian alias. Answered over 590 question and top 3rd answerer for question with Jetpack Compose tag. I love SubcomposeLayout, custom layout, animation, and gesture question especially.
 
 https://stackoverflow.com/tags/android-jetpack-compose/topusers
 
